@@ -59,7 +59,7 @@ private ImageLoader imageLoader;
         ImageView image= (ImageView) v.findViewById(R.id.imageView);
         textName.setText(personalData.getNAME());
         String url=personalData.getURL();
-        loadimage(url.substring(0,url.length()-2)+"110",image);
+        loadimage(url.substring(0,url.length()-2)+""+(int)Utils.convertDpToPixel(50f,MyApplication.getAppContext()),image);
 
     }
 
