@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nimbus2k16</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ABOUT_NIMBUS">ABOUT NIMBUS</string>
+    <string name="EVENT_NOTE" translatable="false">CAR EXPO:\nJan 19,2016\n9-12am</string>
+    <string name="ADD_TO_CALENDAR">ADD TO CALENDAR</string>
+    <string name="title_activity_login">Login</string>
+</resources>
