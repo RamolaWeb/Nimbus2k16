@@ -49,6 +49,14 @@ private ImageLoader imageLoader;
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
         setDetail(navigationView);
+
+        findViewById(R.id.department).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(homeActivity.this,DepartmentalTeam.class));
+                overridePendingTransition(R.anim.open_next,R.anim.open_main);
+            }
+        });
     }
 
     private void setDetail(NavigationView navigationView) {
