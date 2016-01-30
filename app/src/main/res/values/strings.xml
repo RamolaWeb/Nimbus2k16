@@ -12,5 +12,62 @@
     <string name="DEPARTMENT">Departmental Teams</string>
     <string name="title_activity_departmental_team">Departmental Team</string>
     <string name="title_activity_team">Team</string>
-    <string name="Fake_text">Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+
+    <string name="fake_text"> Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="ece_contact">ECE CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="electrical_contact">ELECTRICAL CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="civil_contact">CIVIL CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="mechanical_contact">MECHANICAL CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="cse_contact">CSE CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="chemical_contact">CHEMICAL CONTACT Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+
+    <string name="ece">ECE Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="electrical">ELECTRICAL Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="civil">CIVIL Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="mechanical">MECHANICAL Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="cse">CSE Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+    <string name="chemical">CHEMICAL Lorem ipsum dolor sit amet, ea dicta appetere iracundia eam,aliquam explicari in mel. Et sed elitr munere.</string>
+
+    <string-array name="ece_event">
+        <item>SOMETHING ECE</item>
+        <item>SOMETHING ECE</item>
+        <item>SOMETHING ECE</item>
+        <item>SOMETHING ECE</item>
+        <item>SOMETHING ECE</item>
+    </string-array>
+    <string-array name="electrical_event">
+        <item>SOMETHING ELECTRICAL</item>
+        <item>SOMETHING ELECTRICAL</item>
+        <item>SOMETHING ELECTRICAL</item>
+        <item>SOMETHING ELECTRICAL</item>
+        <item>SOMETHING ELECTRICAL</item>
+    </string-array>
+    <string-array name="civil_event">
+        <item>SOMETHING CIVIL</item>
+        <item>SOMETHING CIVIL</item>
+        <item>SOMETHING CIVIL</item>
+        <item>SOMETHING CIVIL</item>
+        <item>SOMETHING CIVIL</item>
+    </string-array>
+    <string-array name="cse_event">
+        <item>SOMETHING CSE</item>
+        <item>SOMETHING CSE</item>
+        <item>SOMETHING CSE</item>
+        <item>SOMETHING CSE</item>
+        <item>SOMETHING CSE</item>
+    </string-array>
+    <string-array name="chemical_event">
+        <item>SOMETHING CHEMICAL</item>
+        <item>SOMETHING CHEMICAL</item>
+        <item>SOMETHING CHEMICAL</item>
+        <item>SOMETHING CHEMICAL</item>
+        <item>SOMETHING CHEMICAL</item>
+    </string-array>
+    <string-array name="mechanical_event">
+        <item>SOMETHING MECHANICAL</item>
+        <item>SOMETHING MECHANICAL</item>
+        <item>SOMETHING MECHANICAL</item>
+        <item>SOMETHING MECHANICAL</item>
+        <item>SOMETHING MECHANICAL</item>
+    </string-array>
 </resources>
