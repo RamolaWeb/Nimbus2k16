@@ -20,17 +20,10 @@
         android:id="@+id/team_detail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-<include
-    android:layout_marginTop="5dp"
-    layout="@layout/team_event"
-    android:layout_below="@+id/team_detail"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:id="@+id/team_event"/>
 
     <include
         android:layout_marginTop="5dp"
-        android:layout_below="@+id/team_event"
+        android:layout_below="@+id/team_detail"
         layout="@layout/contactdetail"
         android:id="@+id/contact_detail"
         android:layout_width="match_parent"

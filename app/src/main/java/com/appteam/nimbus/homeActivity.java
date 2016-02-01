@@ -57,6 +57,13 @@ private ImageLoader imageLoader;
                 overridePendingTransition(R.anim.open_next,R.anim.open_main);
             }
         });
+        findViewById(R.id.event).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(homeActivity.this,teamEvent.class));
+                overridePendingTransition(R.anim.open_next,R.anim.open_main);
+            }
+        });
     }
 
     private void setDetail(NavigationView navigationView) {
